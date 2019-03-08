@@ -1,1 +1,1 @@
-// your Bomb code here!
+export default class Bomb 
